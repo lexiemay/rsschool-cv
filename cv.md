@@ -23,3 +23,14 @@ function multiply(a, b) {
 ## Courses 
 + JS / Front-end Pre-school RU Course 
    [RS School](https://rs.school/courses/javascript-preschool-ru)
+
+
+## Education
+University of Latvia 
+
+## Languages 
++ Russian 
++ English (C1)
++ Spanish (B2) 
+  
+  Russian is my native language, but I spent most of my life in an English-speaking environment and also attended a British school.
